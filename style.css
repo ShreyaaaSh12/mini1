@@ -32,3 +32,31 @@ body{
      background: #dfeaed;
 background: linear-gradient(90deg, rgba(223, 234, 237, 0.45) 0%, rgba(66, 199, 214, 0.52) 50%, rgba(177, 204, 204, 0.43) 100%);
 }
+
+#footerBox{
+    background: #2a849b;
+    background: linear-gradient(90deg, rgba(42, 132, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(83, 237, 234, 1) 100%);
+    color:white;
+    text-align: center;
+    font-size:2rem;
+}
+#image{
+    height:300px;
+    width:50vw;
+    border-radius:6px;
+}
+
+#image1{
+    height:500px;
+    width:700px;
+    border-radius:6px;
+}
+.item{
+    display:flex;
+    justify-content: space-between;
+
+}
+#recipe{
+    font-size:large;
+}
+
